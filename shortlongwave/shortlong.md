@@ -3,7 +3,7 @@ Disclaimer: Most of this tutorial assume the usage of Mac OS (or linux) with pre
 ### One-time Setup 
 This only applies to when a new computer is to be connected to the Arduino. 
 
-1.Install PySerial
+1. Install PySerial
   For Mac/linux(ubuntu):
   
   Through PyPI:
@@ -19,6 +19,7 @@ This only applies to when a new computer is to be connected to the Arduino.
 
 
 2. Find your USB modem connection:
+
   Recommended approach:
   Through Arduino App interface:
   Connect the arduino (arduino-side pre-loaded) to the computer.
@@ -29,7 +30,8 @@ This only applies to when a new computer is to be connected to the Arduino.
   
   Alternative approach [here](https://www.mathworks.com/help/supportpkg/arduinoio/ug/find-arduino-port-on-windows-mac-and-linux.html).
   
-3.Download the shortlongwave folder.
+3. Download the shortlongwave folder.
+
 **Replace the port name**(/dev/cu.usbmodem14301) **in testout.py with this new port**
   Make sure the new port name is in single quotation.
   Save testout.py after the port name has been updated.
@@ -43,11 +45,13 @@ This only applies to when a new computer is to be connected to the Arduino.
   Make sure the arduino and the sensors are connected, and 
   
   2. Run the file with 
+  
   `python testout.py`
   
   The script will automatically capture the beginning time of the experiment, and start print out measured results in the terminal folder. 
   
   3. Saving the output
+  
   This is done automatically. The printouts are also saved as a txt file in the meantime - and will keep on recording every single second until the python program is paused.
   
   **The script will not stop reporting/recording if the wires are loose, which could result in 0.00 Volts for the barrel and 1037.55 Melexis sensor.** The example code's output files clearly shows that, but goes back to normal towards the end when the wires are pushed back into place. 
