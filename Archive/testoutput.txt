@@ -1,0 +1,239 @@
+t = 22.45*C
+0.00
+X: 265.19 Y: -2.81 Z: -1.81		Ambient = 23.19*C	Object = 22.43*C
+0.00
+X: 265.19 Y: -2.81 Z: -1.81		Current Temperature: 25 C
+
+X: 0.00 Y: 0.00 Z: 0.00		Ambient = 23.19*C	Object = 22.25*C
+0.00
+X: 0.00 Y: 0.00 Z: 0.00		Ambient = 23.19*C	Object = 22.25*C
+0.00
+X: 0.00 Y: 0.00 Z: 0.00		Ambient = 23.19*C	Object = 22.33*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.53*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.41*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.41*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.57*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.17*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.17*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.57*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.49*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.49*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.27*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.51*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.31*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.31*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.27*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.59*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.59*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.57*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.57*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.63*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.63*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.63*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.33*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.33*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.25*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.59*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.49*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.49*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.47*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.47*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.45*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.63*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.63*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.31*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.53*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.59*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.59*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.41*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.73*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.31*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.53*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.25*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.25*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.57*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.57*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.65*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.17*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.33*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.35*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.41*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.45*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.45*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.27*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.35*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.35*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.41*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.43*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.27*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.27*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.51*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.51*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.17*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.17*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.37*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.45*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.29*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.29*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.55*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.27*C	Object = 22.33*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.21*C	Object = 22.33*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.25*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.21*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.21*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.49*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.19*C	Object = 22.45*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.23*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	Object = 22.39*C
+0.00
+X: 0.00 Y: -3.44 Z: -1.06		Ambient = 23.25*C	O
