@@ -9,9 +9,9 @@ This only applies to when a new computer is to be connected to the Arduino.
   `python -m pip install pyserial`
   
   Through conda:
-  `conda install pyserial
+  `conda install pyserial`
   or
-  conda install -c conda-forge pyserial`
+  `conda install -c conda-forge pyserial`
 
   For windows:
   _PySerial can be installed on windows but is relatively challenging. Check this [link](https://www.youtube.com/watch?v=Pf-cGzOQmXU) for instructions on how to install it._
