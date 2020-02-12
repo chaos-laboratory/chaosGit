@@ -21,7 +21,10 @@ This only applies to when a new computer is to be connected to the Arduino.
   Recommended approach:
   Through Arduino App interface:
   Connect the arduino (arduino-side pre-loaded) to the computer.
-  Tools -> Port -> **/dev/cu.usbmodem**
+
+  Example:
+  Tools -> Port -> _Something similar to_ **/dev/cu.usbmodem?????**. Copy/remember this string (dev/cu.usbmodem1D111 as shown in the example here).
+  
   
   Alternative approach [here](https://www.mathworks.com/help/supportpkg/arduinoio/ug/find-arduino-port-on-windows-mac-and-linux.html).
 3.Download the shortlongwave folder.
