@@ -1,11 +1,14 @@
 Disclaimer: Most of this tutorial assume the usage of Mac OS (or linux) with pre-installed conda or pip. It's possible to use PySerial in Windows but fairly cumbersome. Efforts dedicated to it can be managed more easily by using a Mac OS - or any system that's capable of bash interface instead. 
 
-### One-time setup - Preparation
+### One-time Setup 
+This only applies to when a new computer is to be connected to the Arduino. 
 1.Install PySerial
-  For mac/linux(ubuntu):
-  from PyPI:
+  For Mac/linux(ubuntu):
+  
+  Through PyPI:
   `python -m pip install pyserial`
-  from conda:
+  
+  Through conda:
   `conda install pyserial
   or
   conda install -c conda-forge pyserial`
